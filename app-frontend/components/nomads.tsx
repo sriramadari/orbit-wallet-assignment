@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
   scrollContainer: {
     flexDirection: 'row',
     alignItems: 'center',
+    marginBottom:42
   },
   itemContainer: {
     marginRight: 8,

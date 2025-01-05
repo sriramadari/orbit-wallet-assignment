@@ -1,0 +1,38 @@
+{
+    "hashtags": [
+      { "hashtag": "#TravelDiaries", "taggedPeople": "2.5m" },
+      { "hashtag": "#Wanderlust", "taggedPeople": "3.1m" },
+      { "hashtag": "#Adventure", "taggedPeople": "1.8m" },
+      { "hashtag": "#Exploring", "taggedPeople": "2.9m" },
+      { "hashtag": "#Vacation", "taggedPeople": "3.5m" },
+      { "hashtag": "#RoadTrip", "taggedPeople": "2.2m" },
+      { "hashtag": "#TravelGoals", "taggedPeople": "3.0m" },
+      { "hashtag": "#BeachLife", "taggedPeople": "2.7m" },
+      { "hashtag": "#CityScapes", "taggedPeople": "1.9m" },
+      { "hashtag": "#NatureLovers", "taggedPeople": "2.4m" }
+    ],
+    "communities": [
+      { "name": "Places of France", "postsPerDay": "125 posts/day", "country": "France" },
+      { "name": "Explore Japan", "postsPerDay": "150 posts/day", "country": "Japan" },
+      { "name": "Discover Italy", "postsPerDay": "110 posts/day", "country": "Italy" },
+      { "name": "USA Adventures", "postsPerDay": "200 posts/day", "country": "USA" },
+      { "name": "Australia Outback", "postsPerDay": "95 posts/day", "country": "Australia" },
+      { "name": "Brazilian Wonders", "postsPerDay": "130 posts/day", "country": "Brazil" },
+      { "name": "Canadian Rockies", "postsPerDay": "80 posts/day", "country": "Canada" },
+      { "name": "South African Safaris", "postsPerDay": "70 posts/day", "country": "South Africa" },
+      { "name": "UK Heritage", "postsPerDay": "140 posts/day", "country": "UK" },
+      { "name": "New Zealand Trails", "postsPerDay": "60 posts/day", "country": "New Zealand" }
+    ],
+    "nomads": [
+      { "username": "NomadTraveler", "followers": "250k" },
+      { "username": "Wanderer", "followers": "300k" },
+      { "username": "Globetrotter", "followers": "180k" },
+      { "username": "Explorer", "followers": "220k" },
+      { "username": "Adventurer", "followers": "275k" },
+      { "username": "Backpacker", "followers": "150k" },
+      { "username": "JourneyJunkie", "followers": "320k" },
+      { "username": "TravelGuru", "followers": "210k" },
+      { "username": "WorldSeeker", "followers": "190k" },
+      { "username": "RoamingSoul", "followers": "230k" }
+    ]
+  }
